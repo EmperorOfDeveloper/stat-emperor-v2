@@ -1,0 +1,37 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "Emperor v12 Boş Altyapı",
+  "main": "Emperor.js",
+  "scripts": {
+    "start": "node Emperor.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "discord-logs": "^1.7.6",
+    "discord.js": "^12.2.0",
+    "dn": "^0.1.5",
+    "express": "^4.17.1",
+    "fn": "^0.2.0",
+    "fs": "0.0.2",
+    "generate-password": "^1.5.1",
+    "humanize-duration": "^3.23.1",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2"
+ 
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
